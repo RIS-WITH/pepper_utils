@@ -1,0 +1,12 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/gsarthou/Robots/Pepper/DtDemo/catkin_ws/devel/lib/python3/dist-packages",
+    "/opt/ros/noetic/lib/python3/dist-packages",
+    "/usr/local/robots/pepper/pynaoqi-python2.7-2.5.7.1-linux64/lib/python2.7/site-packages/"
+  ],
+  "python.analysis.extraPaths": [
+    "/home/gsarthou/Robots/Pepper/DtDemo/catkin_ws/devel/lib/python3/dist-packages",
+    "/opt/ros/noetic/lib/python3/dist-packages",
+    "/usr/local/robots/pepper/pynaoqi-python2.7-2.5.7.1-linux64/lib/python2.7/site-packages/"
+  ]
+}
